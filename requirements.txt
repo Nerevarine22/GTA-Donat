@@ -1,0 +1,5 @@
+ultralytics==8.4.215
+opencv-python
+supervision
+numpy
+lap>=0.5.12
